@@ -1,0 +1,11 @@
+:root{
+
+    --titulos:'Lato', sans-serif;
+    --parrafos:'Roboto', sans-serif;
+    --encabezado: rgb(186, 49, 49);
+    --piepagina: rgb(6, 5, 5);
+    --enlace: #fff;
+    --enlacesobre: rgb(196, 80, 14);
+}
+
+
